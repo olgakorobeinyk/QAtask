@@ -1,0 +1,1 @@
+protractor tests/protractor-config.js > log.txt 2>&1

@@ -1,0 +1,1 @@
+npm i -g protractor cucumber && npm i chai chai-as-promised && webdriver-manager update
